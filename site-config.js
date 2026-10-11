@@ -1,3 +1,3 @@
 // معرّف القياس لموقع شروحات الشيخ توفيق ضمرة.
 // يبدأ جمع البيانات بعد رفع ملفات الربط إلى الموقع.
-window.SHUROOHAT_ANALYTICS_ID = "G-GNNDTTNJ9T";
+window.SHUROOHAT_ANALYTICS_ID = "G-87PCBKV99S";
